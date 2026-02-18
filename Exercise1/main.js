@@ -1,8 +1,20 @@
-let x = 1;
-let y = 7;
 
-console.log(x+y)
-console.log(x-y)
-console.log(x*y)
-console.log(x/y)
-console.log(++x)
+// Comparison Operators
+
+let a = 10;
+let b = "15";
+
+console.log(a == b); 
+
+console.log(a === b);   
+
+console.log(a != b); 
+
+console.log(a !== b);  
+
+console.log(a > b);
+
+console.log(a < b);
+console.log(a >= b);
+console.log(a <= b);
+
