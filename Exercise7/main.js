@@ -15,6 +15,6 @@ colors.pop();
 
 console.log(colors[5]);
 
- colors.unshift("pink");
+ colors.unshift("blue");
 
  console.log(colors[0]);

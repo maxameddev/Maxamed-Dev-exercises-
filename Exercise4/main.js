@@ -25,3 +25,7 @@ let multipleTwoNumbers2 = function (num1, num2) {
     multipleTwoNumbers2(5, 10);
     multipleTwoNumbers2(20, 30);
     multipleTwoNumbers2(100, 200);
+
+    let name = function (firstName, middleName, lastName) {console.log("Magacaygu waa: " + firstName + " " + middleName + " " + lastName)};
+
+    name("maxamed", "Xassan", "Cumar");
