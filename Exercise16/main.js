@@ -10,3 +10,4 @@ if(score < 50) {
 else {
     console.log(name + " Waan ka xumahay, " + name + " waa guuldareystay");
 }
+
